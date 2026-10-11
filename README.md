@@ -15,8 +15,8 @@
 ```ts
 const sakthi = {
   role:     "CSE Student",
-  focus:    ["Hackathon projects", "Full-stack web", "AI-powered apps"],
-  learning: ["TypeScript", "Web Development", "DSA"],
+  focus:    ["Hackathon projects"],
+  learning: ["Web Development", "DSA"],
   openTo:   "Hackathon teams & student collaborations",
 };
 ```
